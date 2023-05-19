@@ -26,3 +26,7 @@ list::list()
 {
 	START = NULL;
 }
+void list::addNode()	/*Menambahkan sebuah Node ke dalam list*/
+{
+	
+}
