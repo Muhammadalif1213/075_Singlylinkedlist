@@ -10,3 +10,8 @@ public:
 	Node* next;
 };
 
+class list
+{
+
+};
+
