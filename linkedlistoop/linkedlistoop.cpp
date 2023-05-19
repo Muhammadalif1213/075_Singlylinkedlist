@@ -123,5 +123,8 @@ void list::traverse()
 
 int main()
 {
+	list mhs;
+	int nim;
+	char ch;
 	
 }
