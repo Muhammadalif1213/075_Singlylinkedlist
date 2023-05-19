@@ -28,5 +28,11 @@ list::list()
 }
 void list::addNode()	/*Menambahkan sebuah Node ke dalam list*/
 {
-	
+	int nim;
+	char nm[20];
+	cout << "\nMasukan nomor mahasiswa: ";
+	cin >> nim;
+	cout << "\nMasukan nama: ";
+	cin >> nm;
+
 }
