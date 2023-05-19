@@ -120,3 +120,8 @@ void list::traverse()
 		cout << endl;
 	}
 }
+
+int main()
+{
+	
+}
